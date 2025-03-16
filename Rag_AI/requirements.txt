@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+transformers
+torch
+faiss-cpu
+datasets
+jupyter
+matplotlib
+seaborn
+tqdm
+langchain-community
+tiktoken
+langchain
+google-generativeai
+
